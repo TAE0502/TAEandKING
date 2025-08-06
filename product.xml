@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+    <product>
+        <id>P001</id>
+        <product>รองเท้าผ้าใบ Nike</product>
+        <description>สีขาว ดำ รุ่น Air Max</description>
+        <price>2900</price>
+        <quantity>10</quantity>
+    </product>
+    <product>
+        <id>P002</id>
+        <product>รองเท้าผ้าใบ Adidas</product>
+        <description>รุ่น Superstar สีขาวทอง</description>
+        <price>3200</price>
+        <quantity>15</quantity>
+    </product>
+    <product>
+        <id>P003</id>
+        <product>รองเท้าผ้าใบ Converse</product>
+        <description>รุ่น All Star สีดำสูงข้อ</description>
+        <price>2500</price>
+        <quantity>8</quantity>
+    </product>
+    <product>
+        <id>P004</id>
+        <product>รองเท้าผ้าใบ Puma</product>
+        <description>รุ่น RS-X สีขาวชมพู</description>
+        <price>2700</price>
+        <quantity>12</quantity>
+    </product>
+    <product>
+        <id>P005</id>
+        <product>รองเท้าผ้าใบ New Balance</product>
+        <description>รุ่น 574 สีเทา</description>
+        <price>3000</price>
+        <quantity>16</quantity>
+    </product>
+</products>
